@@ -429,13 +429,6 @@
         <p class="mb-2">Este produto não substitui o parecer médico profissional. Sempre consulte um médico antes de iniciar qualquer programa de emagrecimento.</p>
         <p>
           <a href="#" class="text-green-400 hover:text-green-300">Termos de Uso</a> | 
-          <a href="#" class="text-green-400 hover:text-green-300">Política de Privacidade</a>
-        </p>
-      </div>
-    </div>
-  </footer>
-
-</body>
-</html>
+          <a href="#" class="text-green-400 hover:text-green-300">Política 
 
 
