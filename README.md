@@ -96,7 +96,17 @@
     </div>
   </footer>
 
-</body>
+</body>---
+
+## 🛒 Adquira já o seu E-book
+
+Clique no botão abaixo e garanta sua cópia com **desconto especial**:
+
+[![Compre Agora no PagSeguro](https://stc.pagseguro.uol.com.br/public/img/botoes/botao-comprar-assina.gif)](https://pag.ae/7_Y2uTzB4)
+
+---
+
+💚 Transforme seu corpo e sua saúde com métodos naturais. Sua nova vida começa agora!
 </html>
 
 
