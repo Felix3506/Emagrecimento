@@ -1,15 +1,4 @@
 
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
-  <script src="https://cdn.tailwindcss.com"></script>
-  <style>
-    .testimonial-card {
-      transition: transform 0.3s ease;
-    }
-    .testimonial-card:hover {
-      transform: translateY(-5px);
-    }
-    .guarantee-badge {
-      animation: pulse 2s infinite;
     }
     @keyframes pulse {
       0% { transform: scale(1); }
