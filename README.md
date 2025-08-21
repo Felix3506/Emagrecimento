@@ -99,7 +99,8 @@
 </body>---
 
 ## 🛒 Adquira já o seu E-book
-
+QUERO EMAGRECER AGORA!
+        </a>
 Clique no botão abaixo e garanta sua cópia com **desconto especial**:
 
 [![Compre Agora no PagSeguro](https://stc.pagseguro.uol.com.br/public/img/botoes/botao-comprar-assina.gif)](https://pag.ae/7_Y2uTzB4)
